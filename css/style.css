@@ -5,21 +5,23 @@
   padding: 0;
   box-sizing: border-box;
 }
-h1{
+
+h1 {
   text-align: center;
   margin: 50px 0;
 }
-.box{
+
+.box {
   height: 300px;
   width: 90%;
   max-width: 600px;
   margin: 0 auto 50px;
   background-color: #eee;
 }
-/* ---------------------------- */
-/* --- ハンバーガーアイコン --- */
-/* ---------------------------- */
-#hm-icon{
+
+/*ハンバーガーアイコン*/
+
+#hm-icon {
   position: fixed;
   right: 20px;
   top: 20px;
@@ -66,9 +68,9 @@ h1{
   transform: translateY(-20px) rotate(45deg);
   background-color: #fff;
 }
-/* ------------------------ */
-/* ------ spメニュー ------ */
-/* ------------------------ */
+
+/*spメニュー*/
+
 #sp-menu {
   position: fixed;
   top: 0;
